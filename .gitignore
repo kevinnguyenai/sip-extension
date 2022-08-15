@@ -1,0 +1,19 @@
+# basic modurn
+node_modules/
+dist/
+packages/
+
+# gitlabci
+gitlab-ci.yml
+env.local
+
+
+# visual studio code
+.history
+*.log
+functions/*
+lambda/mock/index.js
+.temp/**
+
+# environment
+.env
